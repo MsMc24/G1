@@ -83,4 +83,4 @@ Voki can be used with classroom introductions and help motivate the students by 
 
 😟 Best suited for younger students as older students may find the site silly or stale.
 
-## Let's [go](Voki.com) try it out! 
+## Let's [go](https://l-www.voki.com/) try it out! 
