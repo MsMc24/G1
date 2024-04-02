@@ -1,6 +1,6 @@
 # G1
 ### Mini Project #1! 😀
-# We are going to introduce a tts website: Voki.com**
+# We are going to introduce a tts - text to speech - website: **Voki.**
 
 ### For more detailed information: please watch [our video](https://www.canva.com/design/DAGAnfpCLHo/30CO9y3mPv4UtuCwHMAlTw/edit?utm_content=DAGAnfpCLHo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
@@ -30,19 +30,19 @@ Publish your voki avatar.
 Send your work to the teacher using the “send to a friend” option or add it to your site using the embed code attached.
 
 ## Examples of activities you can do in class: 👩🏼‍🏫
-⚡️**Describing weather:** Choose among backgrounds illus-trating different seasons and weather conditions. Make your avatar speak about the weather on the background.
+⚡️ _Describing weather:_ Choose among backgrounds illus-trating different seasons and weather conditions. Make your avatar speak about the weather on the background.
 
-🎤**Recording dialogues:** Pair work can include recording dialogues between avatars on different topics.
+🎤 _Recording dialogues:_ Pair work can include recording dialogues between avatars on different topics.
 
-🎭**Acting out interviews:** The activity involves in two main steps: students recording questions to interview group mates, then recording answers to their peers’ questions. 
+🎭 _Acting out interviews:_ The activity involves in two main steps: students recording questions to interview group mates, then recording answers to their peers’ questions. 
 
-🎥**Recording reviews:** Students can share their impressions of what they have watched or read. 
+🎥 _Recording reviews:_ Students can share their impressions of what they have watched or read. 
 
-🕴🏽**Poetry:** Students create avatars to recite short poetry which improves their fluency in speaking.
+🕴🏽 _Poetry:_ Students create avatars to recite short poetry which improves their fluency in speaking.
 
-🏆**Famous people:** After conducting research on famous people, students could create avatars that resemble these famous people to present information, such as why they were important in history.
+🏆 _Famous people:_ After conducting research on famous people, students could create avatars that resemble these famous people to present information, such as why they were important in history.
 
-💰**Advertising:** Students use Voki avatars to persuade the audience to act, for instance, purchasing a product or voting for a candidate. 
+💰 _Advertising:_ Students use Voki avatars to persuade the audience to act, for instance, purchasing a product or voting for a candidate. 
 
 ## **Activity how-to for classroom** icebreaker Introducing one’s self 🙋🏽‍♀️
 Voki can be used with classroom introductions and help motivate the students by allowing them to create their own avatar to represent them and taking some pressure off of them.
@@ -83,4 +83,4 @@ Voki can be used with classroom introductions and help motivate the students by 
 
 😟 Best suited for younger students as older students may find the site silly or stale.
 
-## Let's go try it out! 
+## Let's [go](Voki.com) try it out! 
