@@ -65,9 +65,9 @@ Voki can be used with classroom introductions and help motivate the students by 
 
 ⭐️ **Step 4:** Students can then check/listen for any mistakes before sharing the avatar with the teacher.
 
-⭐️ **Step 5:** Students can then share their avatar introductions and respond on the forum.
+⭐️ **Step 5:** Students can then share their avatar introductions and discuss on the hangout forum.
 
-## What is the forum? 🗣️🗣️🗣️
+## What is the hangout forum? 🗣️🗣️🗣️
 
 👩🏼‍🤝‍👨🏻 A Hangout is a student learning community or forum designed to foster student interaction and conversation and  decrease students' affective that can be present in a face-to-face setting by using Voki speaking avatars. 
 
