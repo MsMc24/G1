@@ -10,7 +10,7 @@
 📝 Converting text to speech, Voki’s main function, is a way to not only help visually impaired people but to help language learners. It can be used when a student is too shy to speak, is uncertain how to pronounce words or even if a student doesn’t have a microphone. 
 
 📝 Voki offers three subscription-types:
-<br />
+
 ➡️ Creator is where you can create your character, and it is free. It is similar to the Voki app.<br />
 ➡️ Presenter is where you can make a presentation using voki character, text, image, video, shape,
 and you can align features and decorate background and surface as well. You can only create 3
@@ -57,15 +57,15 @@ classroom with 5 studetns for free.
 ## **Activity how-to for classroom** icebreaker Introducing one’s self 🙋🏽‍♀️
 Voki can be used with classroom introductions and help motivate the students by allowing them to create their own avatar to represent them and taking some pressure off of them.
 
-**Step 1:** Create an avatar that looks like them or that they like the look of.
+⭐️ **Step 1:** Create an avatar that looks like them or that they like the look of.
 
-**Step 2:** Write a short script introducing themselves. (students write in first person).
+⭐️ **Step 2:** Write a short script introducing themselves. (students write in first person).
 
-**Step 3:** Students type their script in a word doc and then copy to insert the script and choose their voice.
+⭐️ **Step 3:** Students type their script in a word doc and then copy to insert the script and choose their voice.
 
-**Step 4:** Students can then check/listen for any mistakes before sharing the avatar with the teacher.
+⭐️ **Step 4:** Students can then check/listen for any mistakes before sharing the avatar with the teacher.
 
-**Step 5:** Students can then share their avatar introductions and respond on the forum.
+⭐️ **Step 5:** Students can then share their avatar introductions and respond on the forum.
 
 ## What is the forum? 🗣️🗣️🗣️
 
