@@ -5,29 +5,39 @@
 ### For more detailed information: please watch [our video](https://www.canva.com/design/DAGAnfpCLHo/30CO9y3mPv4UtuCwHMAlTw/edit?utm_content=DAGAnfpCLHo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## What is Voki?🤔🤔🤔
-Voki is an educational tool for teachers and students that can be used to enhance instruction, engagement, and lesson comprehension using an avatar.
+📝 Voki is an educational tool for teachers and students that can be used to enhance instruction, engagement, and lesson comprehension using an avatar.
 
-Converting text to speech, Voki’s main function, is a way to not only help visually impaired people but to help language learners. It can be used when a student is too shy to speak, is uncertain how to pronounce words or even if a student doesn’t have a microphone. 
+📝 Converting text to speech, Voki’s main function, is a way to not only help visually impaired people but to help language learners. It can be used when a student is too shy to speak, is uncertain how to pronounce words or even if a student doesn’t have a microphone. 
 
-Creating an avatar can be motivating for students because they create someone to read their words and get to hear their words aloud which lowers their affective filter because of less pressure to speak.  
+📝 Voki offers three subscription-types:
+<br />
+➡️ Creator is where you can create your character, and it is free. It is similar to the Voki app.<br />
+➡️ Presenter is where you can make a presentation using voki character, text, image, video, shape,
+and you can align features and decorate background and surface as well. You can only create 3
+presentations with 3 slides for free. If you want to make more slides, you have to pay for
+subscription. <br />
+➡️ Classroom is a management tool where teachers can create a class, assign homework, manage
+and monitor students and their classwork. Teachers can review students’ submissions in real-
+time, either from desktop or mobile device. Teacehrs can assign each student a login, so
+there’s no need for studetns to register or provide personal information. You can create 1
+classroom with 5 studetns for free.
 
 ## Voki: Free 🆓 or Paid?🤑
 **Free version** includes creating avatars, 3 presentations with 3 slides, 1 classroom with 5 students, 1 hangout with 5 students.
 
-**Paid plans** vary depending on the number of student accounts that can be assigned, classrooms, presenters, hangouts.
+**Paid plans** vary depending on the number of student accounts that can be assigned, classrooms, presenters, hangouts. They all offer a 15-day trial.
 
 ## How to use Voki In Class 📝📝📝
-Sign up for Voki at www.voki.com and create a user account.
 
-Go to creator and create an avatar by using buttons on the menu bar.
+🟡 Sign up for Voki at www.voki.com and create a user account.
 
-Use various options for customizing Voki.
+🟣 Go to creator and customize an avatar by using buttons on the menu bar.
 
-Add a voice: text to speech, record by microphone, or upload a pre-recording audio file.
+🟢 Add a voice: text to speech, record by microphone, or upload a pre-recording audio file.
 
-Publish your voki avatar.
+🔴 Publish your voki avatar.
 
-Send your work to the teacher using the “send to a friend” option or add it to your site using the embed code attached.
+🟠 Send your work to the teacher using the “send to a friend” option or add it to your site using the embed code attached.
 
 ## Examples of activities you can do in class: 👩🏼‍🏫
 ⚡️ _Describing weather:_ Choose among backgrounds illus-trating different seasons and weather conditions. Make your avatar speak about the weather on the background.
@@ -58,6 +68,14 @@ Voki can be used with classroom introductions and help motivate the students by 
 **Step 5:** Students can then share their avatar introductions and respond on the forum.
 
 ## What is the forum? 🗣️🗣️🗣️
+
+👩🏼‍🤝‍👨🏻 A Hangout is a student learning community or forum designed to foster student interaction and conversation and  decrease students' affective that can be present in a face-to-face setting by using Voki speaking avatars. 
+
+👩🏼‍🤝‍👨🏻 Each Hangout contains teacher chosen Topics for which students can respond with related Thoughts that are displayed with their speaking avatar by utilizing the text-to-speech function.
+
+👩🏼‍🤝‍👨🏻 Students can also then Reply to other student's Thoughts.
+
+👩🏼‍🤝‍👨🏻 These Thoughts are displayed in a teacher managed, conversational grid so that while it encourages dialogue and learning, the teacher is able to monitor the conversations.
 
 ## Learning objectives while using Voki in Class: 🏫
 
