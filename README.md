@@ -9,7 +9,7 @@
 
 📝 Converting text to speech, Voki’s main function, is a way to not only help visually impaired people but to help language learners. It can be used when a student is too shy to speak, is uncertain how to pronounce words or even if a student doesn’t have a microphone. 
 
-📝 Voki offers three subscription-types:
+📝 <ins> Voki offers three subscription-types: </ins>
 
 ➡️ Creator is where you can create your character, and it is free. It is similar to the Voki app.<br />
 ➡️ Presenter is where you can make a presentation using voki character, text, image, video, shape,
