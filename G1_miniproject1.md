@@ -47,6 +47,9 @@ classroom with 5 studetns for free.
 ![how to](https://github.com/MsMc24/G1/assets/161448192/b1b9df64-a7c8-4a8b-982e-6911916ce359)
 
 # Examples of activities you can do in class: 👩🏼‍🏫
+
+![Sample-of-a-students-Voki-project](https://github.com/MsMc24/G1/assets/161448192/cd9cc521-b01a-449e-aa80-372dc265421d)
+
 ⚡️ _Describing weather:_ Choose among backgrounds illus-trating different seasons and weather conditions. Make your avatar speak about the weather on the background.
 
 🎤 _Recording dialogues:_ Pair work can include recording dialogues between avatars on different topics.
@@ -56,8 +59,6 @@ classroom with 5 studetns for free.
 🏆 _Famous people:_ After conducting research on famous people, students could create avatars that resemble these famous people to present information, such as why they were important in history.
 
 💰 _Advertising:_ Students use Voki avatars to persuade the audience to act, for instance, purchasing a product or voting for a candidate. 
-
-![Sample-of-a-students-Voki-project](https://github.com/MsMc24/G1/assets/161448192/cd9cc521-b01a-449e-aa80-372dc265421d)
 
 # **Activity how-to for classroom** icebreaker Introducing one’s self 🙋🏽‍♀️
 Voki can be used with classroom introductions and help motivate the students by allowing them to create their own avatar to represent them and taking some pressure off of them.
