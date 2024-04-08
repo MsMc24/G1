@@ -5,6 +5,8 @@
 ### For more detailed information: please watch [our video](https://www.canva.com/design/DAGAnfpCLHo/30CO9y3mPv4UtuCwHMAlTw/edit?utm_content=DAGAnfpCLHo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## What is Voki?🤔🤔🤔
+![image](https://github.com/MsMc24/G1/assets/161448192/08d19550-176e-48dd-812d-2e35857ada1d)
+
 📝 Voki is an educational tool for teachers and students that can be used to enhance instruction, engagement, and lesson comprehension using an avatar.
 
 📝 Converting text to speech, Voki’s main function, is a way to not only help visually impaired people but to help language learners. It can be used when a student is too shy to speak, is uncertain how to pronounce words or even if a student doesn’t have a microphone. 
