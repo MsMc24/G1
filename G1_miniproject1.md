@@ -62,6 +62,8 @@ classroom with 5 studetns for free.
 # **Activity how-to for classroom** icebreaker Introducing one’s self 🙋🏽‍♀️
 Voki can be used with classroom introductions and help motivate the students by allowing them to create their own avatar to represent them and taking some pressure off of them.
 
+![activity](https://github.com/MsMc24/G1/assets/161448192/f6b582d5-6ddf-4b05-83b2-feb682a74104)
+
 ⭐️ **Step 1:** Create an avatar that looks like them or that they like the look of.
 
 ⭐️ **Step 2:** Write a short script introducing themselves. (students write in first person).
