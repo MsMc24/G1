@@ -31,7 +31,8 @@ classroom with 5 studetns for free.
 
 **Paid plans** vary depending on the number of student accounts that can be assigned, classrooms, presenters, hangouts. Level 1-3 all offer a 15-day trial.
 ![voki plans](https://github.com/MsMc24/G1/assets/161448192/cbf180fb-1602-4f0e-bab4-7e5061314c6d)
-## How to use Voki In Class 📝📝📝
+
+# How to use Voki In Class 📝📝📝
 
 🟡 Sign up for Voki at www.voki.com and create a user account.
 
