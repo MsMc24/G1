@@ -11,7 +11,7 @@
 
 📝 Converting text to speech, Voki’s main function, is a way to not only help visually impaired people but to help language learners. It can be used when a student is too shy to speak, is uncertain how to pronounce words or even if a student doesn’t have a microphone. 
 
-📝 <ins> Voki offers three subscription-types: </ins>
+📝 <ins> Voki offers four levels with three subscription-types: </ins>
 
 ➡️ Creator is where you can create your character, and it is free. It is similar to the Voki app.<br />
 ➡️ Presenter is where you can make a presentation using voki character, text, image, video, shape,
@@ -27,7 +27,7 @@ classroom with 5 studetns for free.
 ## Voki: Free 🆓 or Paid?🤑
 **Free version** includes creating avatars, 3 presentations with 3 slides, 1 classroom with 5 students, 1 hangout with 5 students.
 
-**Paid plans** vary depending on the number of student accounts that can be assigned, classrooms, presenters, hangouts. They all offer a 15-day trial.
+**Paid plans** vary depending on the number of student accounts that can be assigned, classrooms, presenters, hangouts. Level 1-3 all offer a 15-day trial.
 
 ## How to use Voki In Class 📝📝📝
 
