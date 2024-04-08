@@ -90,6 +90,8 @@ Voki can be used with classroom introductions and help motivate the students by 
 
 # Learning objectives while using Voki in Class: 🏫
 
+![image (1)](https://github.com/MsMc24/G1/assets/161448192/58b68b87-bfb3-466f-b6a2-dce78c1c779f)
+
 👨🏻‍🎓 Ss will be able to utilize online technology to review their own  written work.
  
 👨🏻‍🎓 Ss will be able to increase their ability to recognize (notice) and hear any mistakes in their scripts through multiple types of exposure.
@@ -99,6 +101,8 @@ Voki can be used with classroom introductions and help motivate the students by 
 👨🏻‍🎓 Students will be exposed to technology and digital literacy at an early age.
 
 # Some advantages 😃 and disadvantages 😟 of Voki
+
+![image (2)](https://github.com/MsMc24/G1/assets/161448192/76da140f-f5e4-4330-89f3-91e0e89301e2)
 
 😃 Gives teachers the ability to provide feedback on student performance
 
