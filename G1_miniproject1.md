@@ -46,8 +46,6 @@ presentations with 3 slides for free. <br />
 
 ⚡️ _Describing weather:_ Make your avatar speak about the weather in the background.
 
-🕴🏽 _Poetry:_ Students create avatars to recite short poetry which improves their fluency.
-
 🏆 _Famous people:_ After conducting research on famous people, students could create avatars that resemble these famous people and explain why they were important in history.
 
 💰 _Advertising:_ Students use Voki avatars to persuade the audience to purchase a product or vote for a candidate. 
@@ -76,8 +74,6 @@ Voki can be used with classroom introductions and help motivate the students by 
 👩🏼‍🤝‍👨🏻 A Hangout is a student learning community or forum designed to foster student interaction and conversation and decrease students' affective filter that can be present in a face-to-face setting by using Voki speaking avatars. 
 
 👩🏼‍🤝‍👨🏻 Each Hangout contains teacher chosen Topics in which students can respond with related Thoughts that are displayed with their speaking avatar by utilizing the text-to-speech function.
-
-👩🏼‍🤝‍👨🏻 Students can also then reply to other student's Thoughts.
 
 👩🏼‍🤝‍👨🏻 These Thoughts are displayed in a teacher managed, conversational grid so that while it encourages dialogue and learning, the teacher is able to monitor the conversations.
 
