@@ -78,6 +78,8 @@ Voki can be used with classroom introductions and help motivate the students by 
 
 # What is the hangout forum? 🗣️🗣️🗣️
 
+![hangout](https://github.com/MsMc24/G1/assets/161448192/7de0e051-d48e-4028-afae-10c66df3fce6)
+
 👩🏼‍🤝‍👨🏻 A Hangout is a student learning community or forum designed to foster student interaction and conversation and  decrease students' affective that can be present in a face-to-face setting by using Voki speaking avatars. 
 
 👩🏼‍🤝‍👨🏻 Each Hangout contains teacher chosen Topics for which students can respond with related Thoughts that are displayed with their speaking avatar by utilizing the text-to-speech function.
