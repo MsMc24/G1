@@ -49,10 +49,6 @@ classroom with 5 studetns for free.
 
 🎤 _Recording dialogues:_ Pair work can include recording dialogues between avatars on different topics.
 
-🎭 _Acting out interviews:_ The activity involves in two main steps: students recording questions to interview group mates, then recording answers to their peers’ questions. 
-
-🎥 _Recording reviews:_ Students can share their impressions of what they have watched or read. 
-
 🕴🏽 _Poetry:_ Students create avatars to recite short poetry which improves their fluency in speaking.
 
 🏆 _Famous people:_ After conducting research on famous people, students could create avatars that resemble these famous people to present information, such as why they were important in history.
