@@ -11,6 +11,8 @@
 
 📝 Converting text to speech, Voki’s main function helps English language learners who may be too shy to speak or lacking confidence.
 
+## Is it User-friendly? YES. It's very easy to use for all ages and provides tutorials for everything.
+
 📝 <ins> Voki offers levels within four subscription-types: </ins>
 
 ![types](https://github.com/MsMc24/G1/assets/161448192/28c1ff76-d356-4f5e-bf89-d5561eb4f2ce)
