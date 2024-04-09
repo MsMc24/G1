@@ -79,6 +79,8 @@ Voki can be used with classroom introductions and help motivate the students by 
 
 👩🏼‍🤝‍👨🏻 These Thoughts are displayed in a teacher managed, conversational grid so that while it encourages dialogue and learning, the teacher is able to monitor the conversations.
 
+Hangouts are a great way to facilitate interaction and collaboration in the classroom while taking the pressure off students.
+
 [Our hangout:](https://www.voki.com/visitor/topic?hangoutId=cd2c073c587f99d43954d1504c732c18&topicId=69d658d0b2859e32cd4dc3b970c8496c)
 
 # Learning objectives while using Voki in Class: 🏫
