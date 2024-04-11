@@ -20,7 +20,7 @@
 ➡️ Creator is where you can create your character, and it is free.<br />
 ➡️ Presenter is where you can make a presentation using voki character, text, image, video, shape, etc. You can only create 3
 presentations with 3 slides for free. <br />
-➡️ Classroom is a management tool where teachers can create a class, assign homework, and monitor students. You can create 1 classroom with 5 studetns for free.
+➡️ Classroom is a management tool where teachers can create a class, assign homework, and monitor students. You can create 1 classroom with 5 studetns for free. <br />
 ➡️ Hangout is a kind of forum where students can share their thoughts and reply using their avatars. You can create 1 hangout with 5 students for free.
 
 # Voki: Free 🆓 or Paid?🤑
