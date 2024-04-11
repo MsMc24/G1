@@ -9,7 +9,7 @@
 
 📝 Voki is an educational tool for teachers and students that can be used to enhance the classroom experience with text-to-speech.
 
-📝 Converting text to speech, Voki’s main function helps English language learners who may be too shy to speak or lacking confidence.
+📝 Converting text to speech and expressing oneself through an avatar, Voki’s main functions help English language learners who may be too shy to speak or lacking confidence.
 
 ## Is it User-friendly? YES. It's very easy to use for all ages and provides tutorials for everything.
 
