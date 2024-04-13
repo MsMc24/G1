@@ -45,13 +45,17 @@ presentations with 3 slides for free. <br />
 
 # Examples of activities you can do in class: 👩🏼‍🏫
 
-![Sample-of-a-students-Voki-project](https://github.com/MsMc24/G1/assets/161448192/cd9cc521-b01a-449e-aa80-372dc265421d)
+![Cold](https://github.com/MsMc24/G1/assets/162332863/e178ff4c-faa5-4903-9dd0-67747b7e1360)
 
 ⚡️ _Describing weather:_ Make your avatar speak about the weather in the background.
 
 🏆 _Famous people:_ After conducting research on famous people, students could create avatars that resemble these famous people and explain why they were important in history.
 
 💰 _Advertising:_ Students use Voki avatars to persuade the audience to purchase a product or vote for a candidate. 
+
+📝 _Poetry:_ Students create avatars to recite short poetry which improves their fluency in speaking.
+
+_Recording reviews:_ Students can share their impressions of what they have watched or read.
 
 # **Activity how-to for classroom** icebreaker Introducing one’s self 🙋🏽‍♀️
 Voki can be used with classroom introductions and help motivate the students by allowing them to create their own avatar to represent them and taking some pressure off of them.
