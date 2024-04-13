@@ -55,7 +55,7 @@ presentations with 3 slides for free. <br />
 
 📝 _Poetry:_ Students create avatars to recite short poetry which improves their fluency in speaking.
 
-_Recording reviews:_ Students can share their impressions of what they have watched or read.
+💁 _Recording reviews:_ Students can share their impressions of what they have watched or read.
 
 # **Activity how-to for classroom** icebreaker Introducing one’s self 🙋🏽‍♀️
 Voki can be used with classroom introductions and help motivate the students by allowing them to create their own avatar to represent them and taking some pressure off of them.
