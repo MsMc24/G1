@@ -94,7 +94,7 @@ Hangouts are a great way to facilitate interaction and collaboration in the clas
 
 👨🏻‍🎓 Ss will be able to increase their ability to recognize (notice) and hear any mistakes in their scripts through multiple types of exposure.
 
-👨🏻‍🎓 Ss will be able to lower their affective filter.
+👨🏻‍🎓 Ss will be able to lower their affective filter and increase motivation in the language classroon.
 
 👨🏻‍🎓 Students will be exposed to technology and digital literacy at an early age.
 
@@ -106,9 +106,13 @@ Hangouts are a great way to facilitate interaction and collaboration in the clas
 
 😃 Easy accessibility allows students to be more autonomous and creative
 
+😃 Can help students with pronunciation
+
 😟 To get the best utilization out of Voki as an educational classroom tool, you need to pay.
 
 😟 Best suited for younger students as older students may find the site silly or stale.
+
+😟 Sometimes the pronunciation isn't always accurate
 
 ## Let's [go](https://l-www.voki.com/) try it out! 
 
