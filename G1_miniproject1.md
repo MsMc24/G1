@@ -102,17 +102,17 @@ Hangouts are a great way to facilitate interaction and collaboration in the clas
 
 ![image (2)](https://github.com/MsMc24/G1/assets/161448192/76da140f-f5e4-4330-89f3-91e0e89301e2)
 
-😃 Gives teachers the ability to provide feedback on student performance
+👍🏼 😃 Gives teachers the ability to provide feedback on student performance
 
-😃 Easy accessibility allows students to be more autonomous and creative
+👍🏼 😃 Easy accessibility allows students to be more autonomous and creative
 
-😃 Can help students with pronunciation
+👍🏼 😃 Can help students with pronunciation
 
-😟 To get the best utilization out of Voki as an educational classroom tool, you need to pay.
+👎🏼 😟 To get the best utilization out of Voki as an educational classroom tool, you need to pay.
 
-😟 Best suited for younger students as older students may find the site silly or stale.
+👎🏼 😟 Best suited for younger students as older students may find the site silly or stale.
 
-😟 Sometimes the pronunciation isn't always accurate
+👎🏼 😟 Sometimes the pronunciation isn't always accurate
 
 ## Let's [go](https://l-www.voki.com/) try it out! 
 
