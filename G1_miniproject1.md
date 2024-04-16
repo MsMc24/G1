@@ -31,7 +31,7 @@ presentations with 3 slides for free. <br />
 
 # How to use Voki In Class 📝📝📝
 
-🟡 Sign up for Voki at l-www.voki.com.
+🟡 Sign up for Voki at - www.voki.com.
 
 🟣 Go to creator and customize your avatar.
 
