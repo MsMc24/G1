@@ -80,11 +80,11 @@ Voki can be used with classroom introductions and help motivate the students by 
 
 👩🏼‍🤝‍👨🏻 A Hangout is a student learning community or forum designed to foster student interaction and conversation and decrease students' affective filter that can be present in a face-to-face setting by using Voki speaking avatars. 
 
-👩🏼‍🤝‍👨🏻 Each Hangout contains teacher chosen Topics in which students can respond with related Thoughts that are displayed with their speaking avatar by utilizing the text-to-speech function.
+👩🏼‍🤝‍👨🏻 Each Hangout contains teacher chosen Topics in which students can respond with related Thoughts that are displayed with their speaking avatar by utilizing the text-to-speech function, in this case students would respond to each other's introductions.
 
-👩🏼‍🤝‍👨🏻 These Thoughts are displayed in a teacher managed, conversational grid so that while it encourages dialogue and learning, the teacher is able to monitor the conversations.
+👩🏼‍🤝‍👨🏻 These replies and thoughts can be displayed in a teacher managed, conversational grid so that while it encourages dialogue and learning, the teacher is able to monitor the conversations.
 
-Hangouts are a great way to facilitate interaction and collaboration in the classroom while taking the pressure off students.
+Hangouts are a great way to facilitate interaction and collaboration in the classroom while taking the pressure off students especially as an icebreaker.
 
 [Our hangout:](https://www.voki.com/visitor/topic?hangoutId=cd2c073c587f99d43954d1504c732c18&topicId=69d658d0b2859e32cd4dc3b970c8496c)
 
@@ -94,7 +94,7 @@ Hangouts are a great way to facilitate interaction and collaboration in the clas
 
 👨🏻‍🎓 Ss will be able to increase their ability to recognize (notice) and hear any mistakes in their scripts through multiple types of exposure.
 
-👨🏻‍🎓 Ss will be able to lower their affective filter and increase motivation in the language classroon.
+👨🏻‍🎓 Ss will be able to lower their affective filter with less pressure and increased motivation in the language classroon.
 
 👨🏻‍🎓 Students will be exposed to technology and digital literacy at an early age.
 
